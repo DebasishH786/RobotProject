@@ -20,8 +20,8 @@ Click On SignOut
     Click Element    link=Logout
 
 *** Test Cases ***
-# MyFirstTest
-    # Log    Hello World
+ MyFirstTest
+     Log    Hello World
  
 # FirstSeleiumTest
     # Open Browser    https://www.google.com/    chrome
